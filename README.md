@@ -18,4 +18,4 @@ Given ~5000 essential English (UK) words, generate ESL definition data, then pro
 
 ## 📝 Notes
 
-- ...
+- $5 USD can cover about 2 million input or 500k output tokens. Plenty to start building your idea. View pricing
