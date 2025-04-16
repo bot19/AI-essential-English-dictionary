@@ -1,12 +1,12 @@
 {
-  "apple": 4,
-  "chef": 6,
-  "direction": 5,
-  "dryer": 8,
-  "expectation": 7,
+  "you": 1,
   "hello": 2,
-  "junction": 9,
-  "operation": 7,
   "restaurant": 3,
-  "you": 1
+  "apple": 4,
+  "direction": 5,
+  "chef": 6,
+  "operation": 7,
+  "expectation": 7,
+  "dryer": 8,
+  "junction": 9
 }

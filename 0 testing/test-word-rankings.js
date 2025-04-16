@@ -3,7 +3,7 @@ import OpenAI from "openai";
 import "dotenv/config";
 
 const apiKey = process.env.CHATGPT_DICTIONARY_API_KEY;
-const testNo = 1;
+const testNo = 2;
 
 // console.log("api key", process.env, process.env.CHATGPT_DICTIONARY_API_KEY);
 
@@ -12,26 +12,26 @@ const openai = new OpenAI({
 });
 
 const buildPrompt = `
-You are a professional Lexicographer. For the following words, provide a rank appropriate to their usage and importance in the English language for an ESL learner (think: The Ofxord 5000). The rank should be a number between 1 and 10 (inclusive), where 1 is the most essential and 10 is the least essential.
+You are a professional lexicographer. For the list of words below, assign each a rank from 1 to 10 based on its importance and frequency in English for ESL learners, similar to the criteria used in the Oxford 5000. A rank of 1 means the word is extremely essential and frequently used; 10 means it is much less essential or less commonly used.
 
 words:
-1. apple
-2. hello
-3. direction
-4. restaurant
-5. dryer
-6. junction
-7. chef
-8. you
-9. operation
-10. expectation
+- apple
+- hello
+- direction
+- restaurant
+- dryer
+- junction
+- chef
+- you
+- operation
+- expectation
 
-output format (JSON):
-{ "word": rank, "word2": rank2, ... }
-
-- The output is a JSON object with the words as keys and their ranks as int values. The keys should be sorted in rank order, with 1 first.
-- Only output the JSON object—no explanations.
-- Keep JSON clean and valid. This JSON object will be parsed by a program, so don't add any extra text or formatting.
+Output format (JSON only):
+Return a valid JSON object where:
+- Keys are the words.
+- Values are integers (1-10).
+- The object is sorted by ascending rank (i.e., most essential words first).
+- Do not include any explanation, comments, or formatting outside of the JSON object.
 `;
 
 const completion = openai.chat.completions.create({
