@@ -4,17 +4,14 @@ Given ~5000 essential English (UK) words, generate ESL definition data, then pro
 
 ## 🏁 Features/objectives
 
-1. Point one
-2. Point two
-3. Point three
+1. rank ~5000 essential EN words from 1-10 in how essential they are to ESL learners
+2. get word definitions
+3. convert data to appropriate CSV chunks for DB insertion
+4. create DB (SQLite) & insert
 
 ## 🖥️ Tech
 
-1. ...
-
-## 🚀 How to run
-
-1. ...
+1. openai `v4.94`
 
 ## 📝 Notes
 
