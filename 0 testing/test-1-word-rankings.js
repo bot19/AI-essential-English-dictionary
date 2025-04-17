@@ -3,7 +3,7 @@ import OpenAI from "openai";
 import "dotenv/config";
 
 const apiKey = process.env.CHATGPT_DICTIONARY_API_KEY;
-const testNo = 2;
+const testNo = 3;
 
 // console.log("api key", process.env, process.env.CHATGPT_DICTIONARY_API_KEY);
 

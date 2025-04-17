@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "test-script": "node \"0 testing/test-word-rankings.js\""
+    "test-ranking": "node \"0 testing/test-word-rankings.js\""
   },
   "repository": {
     "type": "git",
