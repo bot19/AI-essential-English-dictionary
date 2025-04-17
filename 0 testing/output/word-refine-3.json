@@ -1,0 +1,26 @@
+{
+  "meanings": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to separate into pieces, or to cause something to stop working",
+      "example": "I break the cookie in half to share it.",
+      "tags": [
+        "action",
+        "everyday"
+      ],
+      "synonyms": [
+        "shatter",
+        "fracture"
+      ]
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to stop doing something for a short time",
+      "example": "I break from my work to rest for a few minutes.",
+      "tags": [
+        "action",
+        "everyday"
+      ]
+    }
+  ]
+}
