@@ -1,0 +1,40 @@
+{
+  "word": "light",
+  "level": {
+    "cefr": "A1",
+    "rank": 2
+  },
+  "phonetics": {
+    "IPA": "/laɪt/"
+  },
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The natural agent that stimulates sight and makes things visible.",
+      "example": "The light from the sun is very bright.",
+      "level": {
+        "cefr": "A1",
+        "rank": 1
+      }
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not heavy; easy to lift or carry.",
+      "example": "This bag is light, so I can carry it easily.",
+      "level": {
+        "cefr": "A1",
+        "rank": 3
+      }
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To make something start to burn or to provide illumination.",
+      "example": "Please light the candle.",
+      "level": {
+        "cefr": "A2",
+        "rank": 4
+      }
+    }
+  ],
+  "notes": []
+}

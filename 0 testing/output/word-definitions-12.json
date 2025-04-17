@@ -1,0 +1,72 @@
+{
+  "word": "break",
+  "level": {
+    "cefr": "A2",
+    "rank": 2
+  },
+  "phonetics": {
+    "IPA": "/breɪk/"
+  },
+  "meanings": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to separate into pieces, usually by accident or force",
+      "example": "Be careful with that glass or you may break it.",
+      "level": {
+        "cefr": "A2",
+        "rank": 2
+      },
+      "tags": [
+        "damage"
+      ],
+      "synonyms": [
+        "shatter",
+        "crack"
+      ]
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to stop doing something for a short time",
+      "example": "Let’s break for lunch now.",
+      "level": {
+        "cefr": "A2",
+        "rank": 3
+      },
+      "tags": [
+        "pause",
+        "rest"
+      ],
+      "synonyms": [
+        "pause",
+        "stop"
+      ]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a short period when you stop working or studying",
+      "example": "We have a short break between classes.",
+      "level": {
+        "cefr": "A2",
+        "rank": 3
+      },
+      "tags": [
+        "rest",
+        "school"
+      ],
+      "synonyms": [
+        "pause",
+        "rest"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "type": "usage",
+      "content": "Break can be used as both a verb and a noun with different meanings."
+    },
+    {
+      "type": "pronunciation",
+      "content": "The vowel sound in 'break' is the same as in 'make' and 'take'."
+    }
+  ]
+}

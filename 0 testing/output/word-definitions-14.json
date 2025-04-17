@@ -1,0 +1,102 @@
+{
+  "word": "light",
+  "level": {
+    "cefr": "A1",
+    "rank": 1
+  },
+  "phonetics": {
+    "IPA": "/laɪt/"
+  },
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "the brightness that comes from the sun, fire, or electricity and makes things able to be seen",
+      "example": "There is not enough light in this room.",
+      "level": {
+        "cefr": "A1",
+        "rank": 1
+      },
+      "tags": [
+        "nature",
+        "science"
+      ],
+      "synonyms": [
+        "brightness",
+        "illumination"
+      ]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a device that produces brightness, such as a lamp or bulb",
+      "example": "Please turn on the light.",
+      "level": {
+        "cefr": "A1",
+        "rank": 2
+      },
+      "tags": [
+        "household",
+        "object"
+      ],
+      "synonyms": [
+        "lamp",
+        "bulb"
+      ]
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "not heavy; weighing only a small amount",
+      "example": "This bag is very light.",
+      "level": {
+        "cefr": "A2",
+        "rank": 3
+      },
+      "tags": [
+        "weight"
+      ],
+      "synonyms": [
+        "not heavy"
+      ]
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "pale in color, not dark",
+      "example": "She has light hair.",
+      "level": {
+        "cefr": "A2",
+        "rank": 4
+      },
+      "tags": [
+        "color"
+      ],
+      "synonyms": [
+        "pale"
+      ]
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to make something start to burn or to give off brightness",
+      "example": "Can you light the candle?",
+      "level": {
+        "cefr": "B1",
+        "rank": 5
+      },
+      "tags": [
+        "action"
+      ],
+      "synonyms": [
+        "ignite",
+        "kindle"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "type": "pronunciation",
+      "content": "The 'gh' in 'light' is silent."
+    },
+    {
+      "type": "usage",
+      "content": "As a noun, 'light' can mean both the brightness itself and the device that produces it."
+    }
+  ]
+}

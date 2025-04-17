@@ -1,0 +1,52 @@
+{
+  "word": "break",
+  "level": {
+    "cefr": "A2",
+    "rank": 3
+  },
+  "phonetics": {
+    "IPA": "/breɪk/"
+  },
+  "meanings": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to separate into pieces or to stop working",
+      "example": "I accidentally broke my phone.",
+      "level": {
+        "cefr": "A2",
+        "rank": 3
+      },
+      "tags": [
+        "action",
+        "everyday"
+      ],
+      "synonyms": [
+        "shatter",
+        "fracture"
+      ]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a pause or interruption in an activity",
+      "example": "Let's take a break and have some coffee.",
+      "level": {
+        "cefr": "A2",
+        "rank": 4
+      },
+      "tags": [
+        "time",
+        "activity"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "type": "usage",
+      "content": "The verb 'break' can be used in both physical and metaphorical contexts."
+    },
+    {
+      "type": "grammar",
+      "content": "'Break' can be used in various tenses, e.g., 'broke' (past) and 'breaking' (present continuous)."
+    }
+  ]
+}

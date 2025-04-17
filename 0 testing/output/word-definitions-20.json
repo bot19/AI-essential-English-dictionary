@@ -1,0 +1,35 @@
+{
+  "word": "dryer",
+  "level": {
+    "cefr": "A2",
+    "rank": 4
+  },
+  "phonetics": {
+    "IPA": "/ˈdraɪ.ər/"
+  },
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A machine that removes moisture from clothes after washing them.",
+      "example": "I put my wet clothes in the dryer to dry them quickly.",
+      "level": {
+        "cefr": "A2",
+        "rank": 4
+      },
+      "tags": [
+        "household",
+        "appliance"
+      ],
+      "synonyms": [
+        "clothes dryer",
+        "tumble dryer"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "type": "usage",
+      "content": "In American English, 'dryer' usually refers to a machine for drying clothes, while in British English, it may refer to a hair dryer."
+    }
+  ]
+}

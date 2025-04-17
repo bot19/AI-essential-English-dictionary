@@ -1,0 +1,39 @@
+{
+  "word": "dryer",
+  "level": {
+    "cefr": "A2",
+    "rank": 5
+  },
+  "phonetics": {
+    "IPA": "/ˈdraɪ.ər/"
+  },
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a machine or device that removes water from things, especially clothes or hair",
+      "example": "I put my wet clothes in the dryer.",
+      "level": {
+        "cefr": "A2",
+        "rank": 5
+      },
+      "tags": [
+        "household",
+        "appliance"
+      ],
+      "synonyms": [
+        "clothes dryer",
+        "hair dryer"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "type": "usage",
+      "content": "Dryer is often used to mean a clothes dryer or a hair dryer, depending on the context."
+    },
+    {
+      "type": "pronunciation",
+      "content": "Dryer is pronounced the same as 'drier', which is the comparative form of 'dry'."
+    }
+  ]
+}

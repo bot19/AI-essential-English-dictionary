@@ -1,0 +1,72 @@
+{
+  "word": "break",
+  "level": {
+    "cefr": "A1",
+    "rank": 2
+  },
+  "phonetics": {
+    "IPA": "/breɪk/"
+  },
+  "meanings": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to separate into pieces, usually by accident or force",
+      "example": "Be careful not to break the glass.",
+      "level": {
+        "cefr": "A1",
+        "rank": 1
+      },
+      "tags": [
+        "damage"
+      ],
+      "synonyms": [
+        "shatter",
+        "crack"
+      ]
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to stop working because of damage or a problem",
+      "example": "If you drop your phone, it might break.",
+      "level": {
+        "cefr": "A2",
+        "rank": 3
+      },
+      "tags": [
+        "machines",
+        "technology"
+      ],
+      "synonyms": [
+        "stop working",
+        "fail"
+      ]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a short period when you stop doing something to rest",
+      "example": "Let's take a break after this exercise.",
+      "level": {
+        "cefr": "A1",
+        "rank": 2
+      },
+      "tags": [
+        "time",
+        "rest"
+      ],
+      "synonyms": [
+        "pause",
+        "rest"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "type": "usage",
+      "content": "Break is an irregular verb. Its past tense is 'broke' and past participle is 'broken'."
+    },
+    {
+      "type": "pronunciation",
+      "content": "The vowel sound in 'break' is the same as in 'make' and 'take'."
+    }
+  ]
+}

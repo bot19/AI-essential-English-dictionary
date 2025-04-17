@@ -1,0 +1,110 @@
+{
+  "word": "break",
+  "level": {
+    "cefr": "A1",
+    "rank": 2
+  },
+  "phonetics": {
+    "IPA": "/breɪk/"
+  },
+  "meanings": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to separate into pieces suddenly or by force",
+      "example": "Be careful not to break the glass.",
+      "level": {
+        "cefr": "A1",
+        "rank": 2
+      },
+      "tags": [
+        "damage"
+      ],
+      "synonyms": [
+        "crack",
+        "shatter"
+      ]
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to stop doing something for a short time",
+      "example": "Let's break for lunch at noon.",
+      "level": {
+        "cefr": "A2",
+        "rank": 3
+      },
+      "tags": [
+        "time",
+        "routine"
+      ],
+      "synonyms": [
+        "pause",
+        "rest"
+      ]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a short period of rest from work or activity",
+      "example": "We had a short break between classes.",
+      "level": {
+        "cefr": "A1",
+        "rank": 2
+      },
+      "tags": [
+        "time",
+        "school"
+      ],
+      "synonyms": [
+        "pause",
+        "rest"
+      ]
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to stop working correctly",
+      "example": "My phone doesn't work because I break it.",
+      "level": {
+        "cefr": "A2",
+        "rank": 4
+      },
+      "tags": [
+        "technology",
+        "damage"
+      ],
+      "synonyms": [
+        "damage",
+        "ruin"
+      ]
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to go through or force a way through something",
+      "example": "They break the door to get inside.",
+      "level": {
+        "cefr": "B1",
+        "rank": 5
+      },
+      "tags": [
+        "action",
+        "force"
+      ],
+      "synonyms": [
+        "force",
+        "smash"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "type": "usage",
+      "content": "The verb 'break' is irregular. Its past tense is 'broke' and past participle is 'broken'."
+    },
+    {
+      "type": "grammar",
+      "content": "'Break' can be both transitive (e.g., break a window) and intransitive (e.g., The glass breaks easily)."
+    },
+    {
+      "type": "pronunciation",
+      "content": "The vowel sound in 'break' is the same as in 'make' and 'take'."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "word": "break",
+  "level": {
+    "cefr": "A2",
+    "rank": 3
+  },
+  "phonetics": {
+    "IPA": "/breɪk/"
+  },
+  "meanings": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to separate into pieces or to stop working",
+      "example": "I will break the chocolate into small pieces.",
+      "level": {
+        "cefr": "A2",
+        "rank": 3
+      },
+      "tags": [
+        "action",
+        "everyday"
+      ],
+      "synonyms": [
+        "shatter",
+        "fracture"
+      ]
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to interrupt or stop something",
+      "example": "Please break the silence and say something.",
+      "level": {
+        "cefr": "B1",
+        "rank": 5
+      },
+      "tags": [
+        "communication"
+      ],
+      "synonyms": [
+        "interrupt",
+        "halt"
+      ]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a pause or interruption in an activity",
+      "example": "Let's take a break and have some coffee.",
+      "level": {
+        "cefr": "A2",
+        "rank": 4
+      },
+      "tags": [
+        "rest",
+        "time"
+      ],
+      "synonyms": [
+        "pause",
+        "intermission"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "type": "usage",
+      "content": "The verb 'break' can be used in both physical and abstract contexts."
+    },
+    {
+      "type": "grammar",
+      "content": "'Break' is a regular verb and can be used in various tenses."
+    }
+  ]
+}
