@@ -1,0 +1,115 @@
+[
+  {
+    "word": "light",
+    "level": {
+      "cefr": "A1",
+      "rank": 2
+    },
+    "phonetics": {
+      "IPA": "/laɪt/"
+    },
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "The natural agent that stimulates sight and makes things visible.",
+        "example": "The light in the room was very bright.",
+        "level": {
+          "cefr": "A1",
+          "rank": 2
+        },
+        "tags": [
+          "nature",
+          "environment"
+        ],
+        "synonyms": [
+          "brightness",
+          "illumination"
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Not heavy; easy to lift.",
+        "example": "This bag is light enough for me to carry.",
+        "level": {
+          "cefr": "A1",
+          "rank": 3
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To make something start to burn.",
+        "example": "She will light the candles for the party.",
+        "level": {
+          "cefr": "B1",
+          "rank": 5
+        }
+      }
+    ],
+    "notes": []
+  },
+  {
+    "word": "break",
+    "level": {
+      "cefr": "A2",
+      "rank": 4
+    },
+    "phonetics": {
+      "IPA": "/breɪk/"
+    },
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To separate into pieces or stop working.",
+        "example": "Be careful not to break the glass.",
+        "level": {
+          "cefr": "A2",
+          "rank": 3
+        },
+        "tags": [
+          "action",
+          "problem"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "An interruption in an activity.",
+        "example": "Let's take a break after the meeting.",
+        "level": {
+          "cefr": "B1",
+          "rank": 5
+        },
+        "tags": [
+          "time",
+          "activity"
+        ]
+      }
+    ],
+    "notes": []
+  },
+  {
+    "word": "dryer",
+    "level": {
+      "cefr": "A2",
+      "rank": 7
+    },
+    "phonetics": {
+      "IPA": "/ˈdraɪər/"
+    },
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A machine for removing moisture from something.",
+        "example": "I put my clothes in the dryer after washing them.",
+        "level": {
+          "cefr": "A2",
+          "rank": 6
+        },
+        "tags": [
+          "household",
+          "appliance"
+        ]
+      }
+    ],
+    "notes": []
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "word": "light",
+  "level": {
+    "cefr": "A1",
+    "rank": 2
+  },
+  "phonetics": {
+    "IPA": "/laɪt/"
+  },
+  "meanings": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "not heavy; easy to lift or move",
+      "example": "This bag is very light; I can carry it easily.",
+      "level": {
+        "cefr": "A1",
+        "rank": 3
+      }
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "the natural agent that stimulates sight and makes things visible",
+      "example": "The sun provides light during the day.",
+      "level": {
+        "cefr": "A1",
+        "rank": 1
+      }
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to make something burn or start to produce light",
+      "example": "She will light the candles for the dinner.",
+      "level": {
+        "cefr": "A2",
+        "rank": 5
+      }
+    }
+  ],
+  "notes": [
+    {
+      "type": "usage",
+      "content": "The adjective 'light' can also mean having a low amount of something, like 'light traffic'."
+    }
+  ]
+}

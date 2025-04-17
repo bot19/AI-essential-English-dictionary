@@ -1,0 +1,40 @@
+{
+  "word": "light",
+  "level": {
+    "cefr": "A1",
+    "rank": 3
+  },
+  "phonetics": {
+    "IPA": "/laɪt/"
+  },
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "the natural agent that stimulates sight and makes things visible",
+      "example": "The light from the sun is very bright.",
+      "level": {
+        "cefr": "A1",
+        "rank": 1
+      }
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "having a lot of brightness; not dark",
+      "example": "The room is very light because of the big windows.",
+      "level": {
+        "cefr": "A1",
+        "rank": 2
+      }
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "not heavy; easy to lift or move",
+      "example": "This box is light, so I can carry it easily.",
+      "level": {
+        "cefr": "A2",
+        "rank": 4
+      }
+    }
+  ],
+  "notes": []
+}

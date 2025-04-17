@@ -1,0 +1,56 @@
+{
+  "word": "light",
+  "level": {
+    "cefr": "A2",
+    "rank": 3
+  },
+  "phonetics": {
+    "IPA": "/laɪt/"
+  },
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A natural or artificial source that makes things visible.",
+      "example": "The light from the sun is very bright.",
+      "level": {
+        "cefr": "A2",
+        "rank": 3
+      }
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Having a lot of brightness or not heavy.",
+      "example": "This bag is light, so I can carry it easily.",
+      "level": {
+        "cefr": "A1",
+        "rank": 2
+      },
+      "tags": [
+        "quality"
+      ],
+      "synonyms": [
+        "bright",
+        "not heavy"
+      ]
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To make something start to burn or produce light.",
+      "example": "We will light the candles for the party.",
+      "level": {
+        "cefr": "B1",
+        "rank": 4
+      }
+    }
+  ],
+  "notes": [
+    {
+      "type": "usage",
+      "content": "The word 'light' can describe both the visible illumination and the weight of an object."
+    },
+    {
+      "type": "pronunciation",
+      "content": "The 'i' in 'light' is pronounced like the 'i' in 'high'."
+    }
+  ]
+}
