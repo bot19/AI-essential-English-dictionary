@@ -8,7 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "test-ranking": "node \"0 testing/test-1-word-rankings.js\"",
     "test-def": "node \"0 testing/test-2-word-definitions.js\"",
-    "test-refine": "node \"0 testing/test-3-word-refine.js\""
+    "test-refine": "node \"0 testing/test-3-word-refine.js\"",
+    "test-def-struct": "node \"0 testing/test-4-word-defs-structured.js\""
   },
   "repository": {
     "type": "git",
