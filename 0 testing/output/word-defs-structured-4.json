@@ -1,0 +1,81 @@
+{
+  "word": "break",
+  "level": {
+    "cefr": "A2",
+    "rank": 2
+  },
+  "phonetics": {
+    "IPA": "/breɪk/"
+  },
+  "meanings": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To separate into pieces or to stop working.",
+      "example": "I need to break this chocolate bar into smaller pieces.",
+      "level": {
+        "cefr": "A2",
+        "rank": 1
+      },
+      "tags": [
+        "action",
+        "everyday"
+      ],
+      "synonyms": [
+        "shatter",
+        "fracture"
+      ]
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To interrupt or stop something temporarily.",
+      "example": "Let's take a break and have some tea.",
+      "level": {
+        "cefr": "A2",
+        "rank": 2
+      },
+      "tags": [
+        "action",
+        "everyday"
+      ],
+      "synonyms": [
+        "pause",
+        "rest"
+      ]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A period of time when you stop working or doing something.",
+      "example": "I had a short break during my meeting.",
+      "level": {
+        "cefr": "A2",
+        "rank": 3
+      },
+      "tags": [
+        "time",
+        "everyday"
+      ],
+      "synonyms": [
+        "pause",
+        "intermission"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "type": "usage",
+      "content": "'Break' can be used in both physical and metaphorical contexts."
+    },
+    {
+      "type": "grammar",
+      "content": "The verb 'break' can be used in both transitive and intransitive forms."
+    },
+    {
+      "type": "context",
+      "content": "Commonly used in everyday conversation, especially in work or school settings."
+    },
+    {
+      "type": "pronunciation",
+      "content": "The 'ea' in 'break' is pronounced like the 'ay' in 'day'."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "word": "dryer",
+  "level": {
+    "cefr": "A2",
+    "rank": 5
+  },
+  "phonetics": {
+    "IPA": "/ˈdraɪ.ər/"
+  },
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A machine that removes moisture from clothes or other items by blowing hot air on them.",
+      "example": "I put my wet clothes in the dryer after washing them.",
+      "level": {
+        "cefr": "A2",
+        "rank": 5
+      },
+      "tags": [
+        "household",
+        "appliance"
+      ],
+      "synonyms": [
+        "clothes dryer",
+        "tumble dryer"
+      ]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device used to dry hair quickly after washing.",
+      "example": "She used a hair dryer to style her hair before going out.",
+      "level": {
+        "cefr": "A2",
+        "rank": 6
+      },
+      "tags": [
+        "personal care",
+        "appliance"
+      ],
+      "synonyms": [
+        "hair dryer"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "type": "usage",
+      "content": "In American English, 'dryer' is commonly used for both clothes and hair drying machines, while in British English, 'tumble dryer' is often used for clothes."
+    },
+    {
+      "type": "context",
+      "content": "Dryers are commonly found in homes and laundromats."
+    },
+    {
+      "type": "pronunciation",
+      "content": "The stress is on the first syllable: 'DRAI-er'."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "break",
+  "level": {
+    "cefr": "A2",
+    "rank": 2
+  },
+  "phonetics": {
+    "IPA": "/breɪk/"
+  },
+  "meanings": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To separate into pieces, usually by force, or to make something do this.",
+      "example": "Be careful not to break the glass.",
+      "level": {
+        "cefr": "A2",
+        "rank": 1
+      },
+      "tags": [
+        "damage",
+        "action"
+      ],
+      "synonyms": [
+        "shatter",
+        "crack",
+        "smash"
+      ]
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To stop doing something for a short time.",
+      "example": "Let's break for lunch.",
+      "level": {
+        "cefr": "B1",
+        "rank": 2
+      },
+      "tags": [
+        "pause",
+        "routine"
+      ],
+      "synonyms": [
+        "pause",
+        "stop",
+        "rest"
+      ]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A short period when you stop working or studying to rest or eat.",
+      "example": "We have a short break at eleven o'clock.",
+      "level": {
+        "cefr": "A2",
+        "rank": 1
+      },
+      "tags": [
+        "time",
+        "routine"
+      ],
+      "synonyms": [
+        "pause",
+        "rest",
+        "interval"
+      ]
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To fail to follow a rule, law, or agreement.",
+      "example": "You must not break the law.",
+      "level": {
+        "cefr": "B1",
+        "rank": 3
+      },
+      "tags": [
+        "rules",
+        "law"
+      ],
+      "synonyms": [
+        "violate",
+        "disobey",
+        "contravene"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "type": "usage",
+      "content": "‘Break’ is an irregular verb: break – broke – broken."
+    },
+    {
+      "type": "context",
+      "content": "‘Break’ is used in many idioms, such as ‘break the ice’ or ‘break a record’."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "word": "break",
+  "level": {
+    "cefr": "B1",
+    "rank": 2
+  },
+  "phonetics": {
+    "IPA": "breɪk"
+  },
+  "meanings": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to separate into pieces suddenly or violently, or to make something do this",
+      "example": "Be careful not to break the glass.",
+      "level": {
+        "cefr": "A2",
+        "rank": 1
+      },
+      "tags": [
+        "physical action"
+      ],
+      "synonyms": [
+        "shatter",
+        "crack"
+      ]
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to stop working or to make something stop working",
+      "example": "My phone break when I dropped it.",
+      "level": {
+        "cefr": "B1",
+        "rank": 2
+      },
+      "tags": [
+        "technology",
+        "malfunction"
+      ],
+      "synonyms": [
+        "stop working",
+        "fail"
+      ]
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to interrupt something, especially a regular activity or event",
+      "example": "We break for lunch at 12 o'clock.",
+      "level": {
+        "cefr": "A2",
+        "rank": 3
+      },
+      "tags": [
+        "time",
+        "routine"
+      ],
+      "synonyms": [
+        "pause",
+        "interrupt"
+      ]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a short period of time when you stop working or doing an activity to rest",
+      "example": "Let's have a break and then continue with the meeting.",
+      "level": {
+        "cefr": "A1",
+        "rank": 1
+      },
+      "tags": [
+        "time",
+        "rest"
+      ],
+      "synonyms": [
+        "rest",
+        "pause"
+      ]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "an opportunity to do something new or different, often leading to success",
+      "example": "She got her big break in the film industry last year.",
+      "level": {
+        "cefr": "B1",
+        "rank": 4
+      },
+      "tags": [
+        "opportunity",
+        "success"
+      ],
+      "synonyms": [
+        "opportunity",
+        "chance"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "type": "usage",
+      "content": "The verb 'break' is irregular: break - broke - broken."
+    },
+    {
+      "type": "usage",
+      "content": "'Break' can be used in many idiomatic expressions, such as 'break a leg' (good luck) or 'break the ice' (to start a conversation)."
+    }
+  ]
+}

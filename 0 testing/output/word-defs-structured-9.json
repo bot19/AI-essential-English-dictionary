@@ -1,0 +1,111 @@
+{
+  "word": "light",
+  "level": {
+    "cefr": "A1",
+    "rank": 1
+  },
+  "phonetics": {
+    "IPA": "/laɪt/",
+    "simplified": "lyt"
+  },
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The brightness that comes from the sun, a lamp, or a fire, and makes things able to be seen.",
+      "example": "There is not enough light in this room to read.",
+      "level": {
+        "cefr": "A1",
+        "rank": 1
+      },
+      "tags": [
+        "vision",
+        "everyday"
+      ],
+      "synonyms": [
+        "brightness",
+        "illumination"
+      ]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device that produces brightness, such as a lamp or bulb.",
+      "example": "Please turn off the light before you leave.",
+      "level": {
+        "cefr": "A1",
+        "rank": 2
+      },
+      "tags": [
+        "object",
+        "household"
+      ],
+      "synonyms": [
+        "lamp",
+        "bulb"
+      ]
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not heavy; weighing only a small amount.",
+      "example": "This bag is very light, so I can carry it easily.",
+      "level": {
+        "cefr": "A2",
+        "rank": 3
+      },
+      "tags": [
+        "weight"
+      ],
+      "synonyms": [
+        "not heavy",
+        "lightweight"
+      ]
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Pale in colour, not dark.",
+      "example": "She has light blue eyes.",
+      "level": {
+        "cefr": "A2",
+        "rank": 4
+      },
+      "tags": [
+        "colour"
+      ],
+      "synonyms": [
+        "pale",
+        "fair"
+      ]
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To make something start to burn or to give off brightness.",
+      "example": "He tries to light the candle.",
+      "level": {
+        "cefr": "A2",
+        "rank": 5
+      },
+      "tags": [
+        "action"
+      ],
+      "synonyms": [
+        "ignite",
+        "kindle"
+      ]
+    }
+  ],
+  "wordFamily": [
+    "lighter",
+    "lighting",
+    "lightly",
+    "lightness"
+  ],
+  "notes": [
+    {
+      "type": "usage",
+      "content": "‘Light’ as a noun is both countable and uncountable, depending on the meaning."
+    },
+    {
+      "type": "pronunciation",
+      "content": "The 'gh' in 'light' is silent."
+    }
+  ]
+}

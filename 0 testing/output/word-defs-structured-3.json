@@ -1,0 +1,81 @@
+{
+  "word": "break",
+  "level": {
+    "cefr": "B1",
+    "rank": 3
+  },
+  "phonetics": {
+    "IPA": "/breɪk/"
+  },
+  "meanings": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To separate into pieces or to stop functioning.",
+      "example": "I need to break this chocolate bar into smaller pieces.",
+      "level": {
+        "cefr": "A2",
+        "rank": 2
+      },
+      "tags": [
+        "action",
+        "everyday"
+      ],
+      "synonyms": [
+        "shatter",
+        "fracture"
+      ]
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To interrupt or stop something temporarily.",
+      "example": "Let's take a break from studying for a while.",
+      "level": {
+        "cefr": "B1",
+        "rank": 3
+      },
+      "tags": [
+        "action",
+        "everyday"
+      ],
+      "synonyms": [
+        "pause",
+        "halt"
+      ]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A period of time when you stop working or doing something.",
+      "example": "I usually have a coffee break in the afternoon.",
+      "level": {
+        "cefr": "A2",
+        "rank": 4
+      },
+      "tags": [
+        "time",
+        "everyday"
+      ],
+      "synonyms": [
+        "pause",
+        "intermission"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "type": "usage",
+      "content": "'Break' can be used in both literal and figurative contexts."
+    },
+    {
+      "type": "grammar",
+      "content": "The verb 'break' is irregular; the past tense is 'broke' and the past participle is 'broken'."
+    },
+    {
+      "type": "context",
+      "content": "Commonly used in both casual and formal contexts."
+    },
+    {
+      "type": "pronunciation",
+      "content": "The 'ea' in 'break' is pronounced as a long vowel sound."
+    }
+  ]
+}

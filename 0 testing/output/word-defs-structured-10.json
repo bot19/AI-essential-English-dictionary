@@ -1,0 +1,45 @@
+{
+  "word": "dryer",
+  "level": {
+    "cefr": "A2",
+    "rank": 6
+  },
+  "phonetics": {
+    "IPA": "/ˈdraɪ.ə(r)/",
+    "simplified": "DRY-uh"
+  },
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A machine or device that removes water from things, especially clothes or hair.",
+      "example": "I put my wet clothes in the dryer.",
+      "level": {
+        "cefr": "A2",
+        "rank": 1
+      },
+      "tags": [
+        "household",
+        "appliance"
+      ],
+      "synonyms": [
+        "tumble dryer",
+        "hair dryer"
+      ]
+    }
+  ],
+  "wordFamily": [
+    "dry",
+    "drying",
+    "dried"
+  ],
+  "notes": [
+    {
+      "type": "usage",
+      "content": "In British English, 'dryer' is often used with another word, such as 'tumble dryer' for clothes or 'hair dryer' for hair."
+    },
+    {
+      "type": "pronunciation",
+      "content": "The 'er' at the end is pronounced /ə(r)/, which sounds like 'uh' or 'er'."
+    }
+  ]
+}

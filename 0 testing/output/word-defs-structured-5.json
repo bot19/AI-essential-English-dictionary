@@ -1,0 +1,65 @@
+{
+  "word": "break",
+  "level": {
+    "cefr": "A2",
+    "rank": 1
+  },
+  "phonetics": {
+    "IPA": "/breɪk/"
+  },
+  "meanings": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to separate something into pieces or cause it to come apart, often by applying force.",
+      "example": "If you break a chocolate bar, you share it with a friend.",
+      "level": {
+        "cefr": "A2",
+        "rank": 1
+      },
+      "tags": [],
+      "synonyms": [
+        "fracture",
+        "shatter"
+      ]
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to not follow a rule or law.",
+      "example": "If you break a rule, you may be given a warning.",
+      "level": {
+        "cefr": "A2",
+        "rank": 2
+      },
+      "tags": [
+        "law"
+      ],
+      "synonyms": [
+        "disobey",
+        "violate"
+      ]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a short period of time when you stop working in order to rest or relax.",
+      "example": "I take a break after lunch.",
+      "level": {
+        "cefr": "A2",
+        "rank": 3
+      },
+      "tags": [
+        "time",
+        "rest"
+      ],
+      "synonyms": [
+        "pause",
+        "rest"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "type": "grammar",
+      "content": "Break is an irregular verb. Its past tense is 'broke' and its past participle is 'broken'."
+    }
+  ]
+}
