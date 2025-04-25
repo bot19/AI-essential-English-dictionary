@@ -12,9 +12,9 @@ Given ~5000 essential English (UK) words, generate ESL definition data, then pro
 ## 🖥️ Tech
 
 1. openai `v4.94`
-2. zod
-3. typeScript
+2. zod `v3.23`
+3. typeScript `v5.5`
 
 ## 📝 Notes
 
-- $5 USD can cover about 2 million input or 500k output tokens. Plenty to start building your idea. View pricing
+- continue [esl-dict](https://github.com/bot19/esl-dict) work here > mass production data
