@@ -12,6 +12,8 @@ Given ~5000 essential English (UK) words, generate ESL definition data, then pro
 ## 🖥️ Tech
 
 1. openai `v4.94`
+2. zod
+3. typeScript
 
 ## 📝 Notes
 

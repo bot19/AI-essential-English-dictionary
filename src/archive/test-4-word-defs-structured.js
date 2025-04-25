@@ -104,7 +104,7 @@ const response = await openai.responses.create({
               simplified: {
                 type: "string",
                 description:
-                  " an easy, phonetic-style rendering that mimics how native English speakers might 'sound it out' using regular alphabet letters—especially useful for learners unfamiliar with IPA.",
+                  "an easy, phonetic-style rendering that mimics how native English speakers might 'sound it out' using regular alphabet letters—especially useful for learners unfamiliar with IPA.",
               },
             },
             required: ["IPA", "simplified"],
