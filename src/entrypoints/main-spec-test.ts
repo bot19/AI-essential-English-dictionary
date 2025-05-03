@@ -2,12 +2,12 @@ import { Command } from "commander";
 import { Context } from "@/etc/Context";
 import { ccgpt, CcgptOptions } from "@/etc/openai";
 import { z } from "zod";
-import { clearLogs } from "@/etc/clearLogs";
+import { clearLogs } from "@/etc/clearLogs"; // prob don't need
 import { Entry, Meaning } from "@/schemas";
 import * as schemas from "@/schemas";
 import { parseInt } from "lodash";
 import path from "path";
-import { writeFileSync } from "fs";
+import { writeFileSync } from "fs"; // don't need
 
 // controls
 const entryType = "test";
@@ -18,6 +18,8 @@ const noContent = {
   wordFamily: "no related words",
   synonyms: "no synonyms available",
 };
+
+console.log("process.argv", process.argv[2]);
 
 interface WordMeaning {
   examplePhrase: string;
