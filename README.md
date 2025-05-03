@@ -18,3 +18,4 @@ Given ~5000 essential English (UK) words, generate ESL definition data, then pro
 ## 📝 Notes
 
 - continue [esl-dict](https://github.com/bot19/esl-dict) work here > mass production data
+- run: `npm run start ./src/entrypoints/main.ts [args1]`
