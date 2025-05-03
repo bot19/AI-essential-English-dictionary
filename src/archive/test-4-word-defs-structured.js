@@ -2,7 +2,7 @@ import { promises as fs } from "fs";
 import OpenAI from "openai";
 import "dotenv/config";
 
-const apiKey = process.env.CHATGPT_DICTIONARY_API_KEY;
+const apiKey = process.env.OPENAI_API_KEY;
 const testName = "word-defs-structured";
 const testNo = 10;
 

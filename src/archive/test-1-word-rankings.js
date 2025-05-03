@@ -2,10 +2,10 @@ import { promises as fs } from "fs";
 import OpenAI from "openai";
 import "dotenv/config";
 
-const apiKey = process.env.CHATGPT_DICTIONARY_API_KEY;
+const apiKey = process.env.OPENAI_API_KEY;
 const testNo = 3;
 
-// console.log("api key", process.env, process.env.CHATGPT_DICTIONARY_API_KEY);
+// console.log("api key", process.env, process.env.OPENAI_API_KEY);
 
 const openai = new OpenAI({
   apiKey,
