@@ -1,0 +1,79 @@
+{
+  "word": "light",
+  "level": {
+    "rank": 3
+  },
+  "phonetics": {
+    "simplified": "lyt"
+  },
+  "wordFamily": [
+    "lighting",
+    "lighten",
+    "lighter",
+    "lightness",
+    "lightweight",
+    "enlighten",
+    "enlightenment",
+    "lighted",
+    "lighthearted",
+    "lightbulb"
+  ],
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The brightness that comes from a source, such as the sun or a lamp, which makes things visible.",
+      "example": "The light from the sun brightens the room.",
+      "note": "When using \"light\" as a noun, remember that it can refer to both natural light (like sunlight) and artificial light (like from a lamp). It is often used to describe brightness or illumination in a space. For example, you might say, \"The room is filled with light,\" to indicate that it is bright.",
+      "synonyms": [
+        "illumination",
+        "brightness",
+        "radiance",
+        "glow",
+        "luminescence",
+        "shine",
+        "brilliance",
+        "daylight",
+        "beam",
+        "glare",
+        "luminosity",
+        "flash",
+        "sparkle",
+        "twinkle"
+      ]
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not heavy; easy to carry or wear.",
+      "example": "She wore a light jacket because it was warm outside.",
+      "note": "When using \"light\" as an adjective, it describes something that is not heavy or has a low weight. It can also refer to a gentle or soft quality, such as in \"light colours\" or \"light fabric.\" Remember to use it to indicate that something is easy to carry or wear, especially in warm weather.",
+      "synonyms": [
+        "lightweight",
+        "airy",
+        "thin",
+        "delicate",
+        "subtle",
+        "gentle",
+        "soft",
+        "mild"
+      ]
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To make something start to burn or to provide brightness.",
+      "example": "Please light the candle for the dinner.",
+      "note": "When using \"light\" as a verb, it means to start a fire or to make something bright. Remember to use it with an object, like \"light the candle\" or \"light the fire.\" In the past tense, it becomes \"lit,\" so you would say, \"He lit the candle.\" Make sure to pronounce it as /laɪt/ when you say it.",
+      "synonyms": [
+        "ignite",
+        "kindle",
+        "illuminate",
+        "brighten",
+        "fire",
+        "flare",
+        "spark",
+        "set alight",
+        "turn on",
+        "light up"
+      ]
+    }
+  ]
+}

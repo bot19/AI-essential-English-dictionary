@@ -1,0 +1,53 @@
+{
+  "word": "dryer",
+  "level": {
+    "rank": 5
+  },
+  "phonetics": {
+    "simplified": "drai-er"
+  },
+  "wordFamily": [
+    "dry",
+    "drying",
+    "dried",
+    "dryness",
+    "dryer vent",
+    "dryly",
+    "dryable"
+  ],
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A machine that uses heat and air to remove moisture from clothes after washing them.",
+      "example": "I put my clothes in the tumble dryer to dry them quickly.",
+      "note": "A tumble dryer is a machine used to dry wet clothes quickly. In British English, \"dryer\" often refers specifically to this appliance. When using it in a sentence, remember to use \"in\" when talking about putting clothes inside: \"I put my clothes in the dryer.\"",
+      "synonyms": [
+        "tumble dryer",
+        "clothes dryer",
+        "drying machine",
+        "laundry dryer",
+        "spin dryer"
+      ]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A machine that blows warm air to dry hair after washing it.",
+      "example": "After washing my hair, I used a hair dryer to style it.",
+      "note": "A hair dryer is an electrical device used to blow warm air to dry and style hair. When using it, hold it at least 15-20 cm away from your hair to avoid heat damage.",
+      "synonyms": ["blow dryer", "hair dryer", "blow drier", "hair drier"]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A machine that blows warm air to dry your hands or hair.",
+      "example": "The air dryer in the bathroom is broken, so I had to use paper towels.",
+      "note": "A dryer is a machine that removes moisture from clothes or hands. In British English, \"hand dryer\" is often used to refer specifically to the device in bathrooms. Remember to use \"the\" before \"dryer\" when talking about a specific one, like \"the air dryer.\"",
+      "synonyms": [
+        "dehydrator",
+        "blower",
+        "air blower",
+        "hand dryer",
+        "ventilator"
+      ]
+    }
+  ]
+}

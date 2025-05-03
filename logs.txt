@@ -1,1 +1,4 @@
 cost-report {"tokens":{},"cost":"~ $0 USD"}
+cost-report {"tokens":{},"cost":"~ $0 USD"}
+cost-report {"tokens":{},"cost":"~ $0 USD"}
+cost-report {"tokens":{},"cost":"~ $0 USD"}
