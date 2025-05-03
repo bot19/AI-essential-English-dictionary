@@ -17,10 +17,7 @@ const words: string[] =
   wordsList
     .find((words) => words.wordLength === wordLength)
     ?.words.slice(0, 50) || [];
-const noContent = {
-  wordFamily: "no related words",
-  synonyms: "no synonyms available",
-};
+const noContent = "no data available for this field";
 
 interface WordMeaning {
   examplePhrase: string;
@@ -101,7 +98,7 @@ const getWordFamily = async (ctx: Context, word: string) => {
   const cefrLevelOptions: CcgptOptions = {
     ctx,
     maxTokens: 150,
-    prompt: `for the word: ${word}; provide an optional list of related words or forms (Word Families or Derivatives). Don't include the word itself (${word}). Respond with a comma separated list of words or if there are no related words: ${noContent.wordFamily}`,
+    prompt: `for the word: ${word}; provide an optional list of related words or forms (Word Families or Derivatives). Don't include the word itself (${word}). Respond with a comma separated list of words or if there are no related words: ${noContent}`,
     schema,
     plainText: true,
     model: "gpt-4o-mini",
@@ -138,7 +135,7 @@ const getSynonyms = async (ctx: Context, wordDescription: string) => {
   const cefrLevelOptions: CcgptOptions = {
     ctx,
     maxTokens: 150,
-    prompt: `Give me a list of synonyms for the word ${wordDescription}. Respond with a comma separated list of those synonyms or if there are no synonyms: "${noContent.synonyms}" (no quotes). Avoid punctuation (don't want phrases) except for the comma to separate the synonyms.`,
+    prompt: `Give me a list of synonyms for the word ${wordDescription}. Respond with a comma separated list of those synonyms or if there are no synonyms: "${noContent}" (no quotes). Avoid punctuation (don't want phrases) except for the comma to separate the synonyms.`,
     schema,
     plainText: true,
     model: "gpt-4o-mini",
